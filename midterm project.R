@@ -188,7 +188,6 @@ summary(multivariate_regression)
  # impact on total expenses. Therefore, Option B with its larger facility may lead to higher 
  # revenues and profitability in the long term, provided that demand in the target area can support it.
 
-# Conclusion:
  # Based on the analysis, Option B (300–400 beds) appears to be more promising in terms of profitability. 
  # Despite the higher initial investment and expenses associated with a larger facility, the potential 
  # for higher revenues and economies of scale in operations make it a more viable choice in the long run, 
